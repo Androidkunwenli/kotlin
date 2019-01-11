@@ -1,4 +1,4 @@
-package com.kun.kotlin.Config;
+package com.kun.kotlin.config;
 
 
 import org.springframework.context.annotation.Bean;
